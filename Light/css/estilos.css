@@ -1,0 +1,242 @@
+* {
+	margin: auto;
+	font-family: arial narrow
+}
+
+.a {	
+	max-width: 990px;
+	margin-bottom: 50px;
+	padding: 40px;
+	font-size: 40px;
+}
+
+.historia {
+	width: 100%;
+	height: 80px;
+	background: #5acbf1 ;
+	color:#fff;
+	text-align: center;
+	font-size: 40px;
+	padding: 30px 0 0 0;
+}
+
+
+.img img  {
+	float: right;
+	clear: left;
+	height: 450px;
+	padding: 100px;
+	margin-bottom: 380px;
+}
+
+.img {
+	text-align: justify;
+	font-size: 23px;
+	font-family:tahoma ;
+}
+
+.img p {
+	width: 500px;
+	float: left;
+	padding: 80px 60px;
+	color: black;
+	opacity: 0.8;
+}
+
+.img h1 {
+	float: left;
+	margin-left: 50px;
+	width: 400px;
+	clear: left;
+	text-align: center;
+
+}.img img {
+	float: right;
+	clear: left;
+	height: ;
+	width:400px;
+
+}
+
+.nivel1 {
+	float: left;
+	margin-top: 300px;
+}
+
+.nivel1 p {
+	font-size: 23px;
+	width: 500px;
+	padding: 20px;
+	float: left;
+}
+
+
+header {
+	padding-top: 600px;
+	background: black;
+	float: left;
+}
+
+
+
+.nivel2 h1{
+	float: left;
+	margin-top: 100px;
+} 
+
+.nivel2 img {
+			float: right;
+			transition: transform .2s;
+			width: 300px;
+			margin-right: 10px;
+}
+
+hr {
+	float: left;
+	margin: auto;
+	margin-bottm: 50px;
+	width: 100%;
+}
+
+
+
+
+
+.nivel2 img:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+
+h2 {
+	margin-top: 120px;
+	float:left;
+	text-align: center;
+	margin-left: 400px;
+	font-size: 30px;
+}
+
+
+
+.nivel3 h1 {
+	float: left;
+	margin-left: 500px;
+	margin-top: 200px;
+}
+
+.nivel3 p {
+	float: left;
+    color: black;
+	opacity: 0.8;
+	width: 500px;
+	padding: 200px 60px;
+	font-family: tahoma;
+	font-size: 23px;
+
+}
+
+
+.nivel3 img {
+	float: right;
+	margin-right: 50px;
+}
+
+
+
+.pago {
+	float:left;
+	margin-top: 100px;
+    background-color: rgba(0, 0, 0, .5);;
+	padding: 25px;
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
+	margin-left: 350px;
+	margin-bottom: 200px;
+	border-radius: 10px 10px 10px 10px;
+	width: 650px;
+	height: 750px;
+}
+
+
+.pago h3 {
+		position: absolute;
+		color: #fff;
+		font-size: 40px;
+		margin-left: 250px;
+}
+
+.pago h4 {
+	position: absolute;
+	margin-top: 80px;
+	font-size: 60px;
+	margin-left: 250px;
+	color: green;
+}
+
+.pago ul {
+	margin-top: 150px;
+	text-align: left;
+}
+
+ul li {
+	padding: 5px;
+
+}
+
+
+.ultimo {
+	width: 100%;
+	height: 980px;
+	float: left;
+	background-size:cover;
+
+}
+
+
+.button {
+    background-color: #5acbf1; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+
+
+.button:hover {
+	background:#008CBA;
+	padding: 30px 50px;
+}
+
+
+
+.redes {
+	float: left;
+	margin-left: 350px;
+}
+
+.redes img {
+	padding: 50px;
+}
+
+.derecho {
+		background: #5acbf1;
+		width: 100%;
+		height: 50px;
+		float: right;
+		text-align: center;
+}
+
+
+
+
+
